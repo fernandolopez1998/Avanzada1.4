@@ -1,0 +1,4 @@
+﻿  FID3.cpp
+C:\Users\Fernando\source\repos\avanzada-1.4\Avanzada1.3\ArbolID3\LibreriaFID3\FID3Lib\FID3.cpp(33,16): warning C4244:  'inicializando': conversión de 'unsigned __int64' a 'double'; posible pérdida de datos
+C:\Users\Fernando\source\repos\avanzada-1.4\Avanzada1.3\ArbolID3\LibreriaFID3\FID3Lib\FID3.cpp(160): warning C4172:  devolución de dirección de la variable local o temporal: entropias
+  FID3Lib.vcxproj -> C:\Users\Fernando\Source\Repos\avanzada-1.4\Avanzada1.3\ArbolID3\LibreriaFID3\x64\Debug\FID3Lib.lib

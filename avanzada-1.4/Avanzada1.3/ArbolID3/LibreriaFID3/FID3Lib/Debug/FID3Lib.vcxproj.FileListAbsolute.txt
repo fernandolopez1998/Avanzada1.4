@@ -1,0 +1,2 @@
+C:\Users\rmama\Source\Repos\Avanzada1.3\ArbolID3\LibreriaFID3\Debug\FID3Lib.pdb
+C:\Users\rmama\Source\Repos\Avanzada1.3\ArbolID3\LibreriaFID3\FID3Lib\Debug\FID3Lib.pdb
